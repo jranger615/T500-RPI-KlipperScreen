@@ -21,6 +21,7 @@ Tired of the TouchPad for the t500, here we will build our own
   * Raspberry Pi Imager https://www.raspberrypi.com/software/
 
 ## Things to Print
+  Located in https://github.com/jranger615/T500-RPI-KlipperScreen/tree/main/stl
   * LCD CASE
   * LCD BACK
   * RPI TOP
