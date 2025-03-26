@@ -23,7 +23,7 @@ Tired of the TouchPad for the t500, here we will build our own
 ## Things to Print
   *LCD CASE
   *LCD BACK
-  *RPI BACK
+  *RPI TOP
   *Vertical or Horizonal Mount 
 
 ## Install Mainsail on SD CARD
