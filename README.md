@@ -33,11 +33,11 @@ This Klipper screen should work for other klipper machines but may require other
 
 ## Things to Print
 Located: https://github.com/jranger615/T500-RPI-KlipperScreen/tree/main/stl
-  * LCD CASE
-  * LCD BACK
-  * RPI TOP
-  * Vertical or Horizonal Mount 
-
+  * LCD_FRONT.stl
+  * RPI4_LCD_BACK.stl
+  * RPI4-TOP.stl
+  * Vertical-LCD-Mount.stl or Horizon-LCD-Mount.stl
+    
  ![image](https://github.com/user-attachments/assets/480fdf53-5f8e-4c9c-993d-95e3de02b68e)
 
 
