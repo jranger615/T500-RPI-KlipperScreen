@@ -1,4 +1,4 @@
-# T500-RPI-KlipperScreen
+ # T500-RPI-KlipperScreen
 Tired of the TouchPad for the t500, here we will build our own
 
 
@@ -50,5 +50,80 @@ Tired of the TouchPad for the t500, here we will build our own
   * Click Yes
   * Click Yes to write to SD Card
   * Once Complete put the SD Card in your Raspberry PI
+
+## Install Kiauh
+ * Attach your Raspberry PI to the power cord and turn it on
+ * Open Putty.exe and add host name you used in the Mainsial install  EX: mkspiB.local  (May need to attach network cord if wifi doesnt work after a couple minutes)
+   
+ ![image](https://github.com/user-attachments/assets/6cca23de-22d2-457e-92bb-478fb9638cb3)
+ * Click Open
+ * Click Accept
+  
+  ![image](https://github.com/user-attachments/assets/664f3b0c-ea94-425e-92ca-70f4fc7a1aee)
+
+ * Enter user: MKS 
+ * Click enter
+ * Enter password: makerbase
+ * Click Enter
+ * Type: sudo apt-get update && sudo apt-get install git -y
+ * click enter
+ * Enter password: makerbase
+ * Click enter
+ * type: cd ~ && git clone https://github.com/dw-0/kiauh.git
+ * click enter
+ * type: ./kiauh/kiauh.sh
+ * click enter
+ 
+ ![image](https://github.com/user-attachments/assets/7f48f7c9-8262-43e3-a071-174bd17cc7c9)
+ * type: 1 and click enter
+ * type: 1 and click enter to install
+ * type 7 and click enter
+   
+  ![image](https://github.com/user-attachments/assets/fdeb06e4-3a3c-41ca-82fb-3e0a1524ce27)
+
+ * When Prompted "Press enter for default (Yes) [Y/n]" Click Enter
+ * When Prompted "Press enter for default (Xserver) Backend Xserver or Wayland (cage)? x/w" Click Enter  (This will take awhile to complete)
+ * When Prompted "Install NetworkMangher for the network panel [Y/n]" Type Y
+ * Click enter
+
+ ## Install Kamp 
+  If you are not currently using KAMP you can skip this step 
+
+ * Reconnect to putty like above
+ * Browse to https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging and follow the installation commands
+
+## Update Klipper
+ * open your browser and goto your host name EX: mkspiB.local
+ * Click the machine tab in Klipper
+ * On the right side File Manager, Click Update on all the sections. (I prefer to do one at a time over the Update All Function at the bottom)
+  ![image](https://github.com/user-attachments/assets/a1cea5a1-014b-456b-a263-60ca90ff440d)
+ * This may disconnect and require you to refresh your browser to get back in
+ * Click the upload button in the config files section and upload all your files you backedup from Klipper
+   
+   ![image](https://github.com/user-attachments/assets/6beb0823-5ee8-47f6-a8dc-015c385ddfc6)
+ * open printer.cfg
+ * comment out the following:
+ #[mcu rpi]
+  #serial: /tmp/klipper_host_mcu
+
+  #[adxl345]
+  #cs_pin: rpi:None
+  #spi_bus: spidev0.0
+
+
+  #[resonance_tester]
+#accel_chip: adxl345
+#probe_points:230, 230, 20  # an example
+#accel_per_hz:50
+#min_freq:1
+##max_smoothing:0.2
+#hz_per_sec:0.5
+
+
+
+ 
+
+
+   
 
 
