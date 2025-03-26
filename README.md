@@ -1,7 +1,11 @@
  # T500-RPI-KlipperScreen
 Tired of the TouchPad for the t500, here we will build our own
+This Klipper screen should work for other klipper machines but may require other conifguration changes and a new mount
 
-
+> [!IMPORTANT]
+> ### If you wish to tip and help continue my work on mods please use:
+>* Paypal: Jeff.b.ranger@gmail.com
+>* Venmo: @Jeff-Ranger-1
 
 
 ## Things to BUY
