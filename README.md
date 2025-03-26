@@ -32,9 +32,11 @@ Tired of the TouchPad for the t500, here we will build our own
   * Choose Storage, and make sure to select the SD card.
   * Click Next
   * Click Edit Setting
+    
     ![image](https://github.com/user-attachments/assets/f59d0560-0c07-4107-8b2e-08a6b104cc03)
   * Set a Host name of your choice
   * set MKS as the user  (***This is important so we dont have to edit many configs on the t500)
+    
     ![image](https://github.com/user-attachments/assets/cd456ae6-c1b2-49e8-939e-fece0c0c93ed)
   * Set makerbase as the password
   * Click Save
