@@ -11,8 +11,10 @@ Tired of the TouchPad for the t500, here we will build our own
   * 7" Touch Screen https://www.amazon.com/dp/B0B2QW89DR?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2
   * 24v > 5V BUCK Power Adapter https://www.amazon.com/dp/B0CRVW7N2J 
   * HDMI Cord https://www.amazon.com/dp/B0CCKXH13W
-  * USB Cord https://www.amazon.com/dp/B0BGYWHG3L
+  * USBA-USBC Cord https://www.amazon.com/dp/B0BGYWHG3L
+  * USBA-USB Micro Cord https://www.amazon.com/dp/B0BHNVLW1Z
   * M3 and M4 Heat Inserts
+  * **Optional**  Power SUpply https://www.amazon.com/dp/B0BMGJNSVS (This just makes it easier to power your Pi and do your configurations not attached to your printer)
 
 
 ## Software to Download
