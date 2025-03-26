@@ -13,6 +13,7 @@ Tired of the TouchPad for the t500, here we will build our own
   * HDMI Cord https://www.amazon.com/dp/B0CCKXH13W
   * USBA-USBC Cord https://www.amazon.com/dp/B0BGYWHG3L
   * USBA-USB Micro Cord https://www.amazon.com/dp/B0BHNVLW1Z
+  * USB-C Extension https://www.amazon.com/dp/B0DKHPS1L3
   * M3 and M4 Heat Inserts
   * **Optional**  Power SUpply https://www.amazon.com/dp/B0BMGJNSVS (This just makes it easier to power your Pi and do your configurations not attached to your printer)
   * m3 bolts
@@ -135,6 +136,32 @@ Tired of the TouchPad for the t500, here we will build our own
 ##max_smoothing:0.2
 #hz_per_sec:0.5
 ```
+
+## Assemble the LCD Device
+ * 
+
+
+
+## Remove Touch PAD
+ * Remove the Power Cord from the Tablet
+ * Remove the USB Cord from the Tablet
+ * Remove the 3 Allen Screws from the back of the Touch Pad
+ * Push the bed to the back
+ * Remove the 4 Screws from the t500 Cover
+ * Pull the bed forward
+ * Remove the back 3 screws
+ * Push the bed back again
+ * Pull the cover off the t500
+ * Remove the USB and Power Cord
+
+   ![image](https://github.com/user-attachments/assets/c4e7aa67-8965-4485-9f60-0e9561f8c26b)
+ * Cut the zip tie holding the wires in place and remove the wires from your t500 
+ * Cut the END off the Power Cord and Solder the wires to your Buck Connector.
+ * Plug the Buck Connector into the board and run the wires to out towards the LCD Mount (You may want to use self tap screws or double sided tape to mount the buck connector)
+ * Attach the USB-C Extension to the power cord
+ * Run the USB-C wire to USB-A wire from the board out towards the Touch PAD
+ * 
+
 
 
 
