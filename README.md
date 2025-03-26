@@ -4,7 +4,7 @@ Tired of the TouchPad for the t500, here we will build our own
 
 
 
-*** Things to BUY
+## Things to BUY
   * Raspberry PI 4B 4GB RAM https://chicagodist.com/products/raspberry-pi-4-model-b-4gb
   * SD Card https://chicagodist.com/products/raspberry-pi-official-noobs-microsd-card?variant=40342062268495
   * SD Card Reader (If your Laptop or COmputer Doesnt Have one)
@@ -15,16 +15,16 @@ Tired of the TouchPad for the t500, here we will build our own
   * M3 and M4 Heat Inserts
 
 
-***Software to Download
+## Software to Download
   * Raspberry Pi Imager https://www.raspberrypi.com/software/
 
-***Things to Print
+## Things to Print
   *LCD CASE
   *LCD BACK
   *RPI BACK
   *Vertical or Horizonal Mount 
 
-  ***Install Mainsail on SD CARD
+## Install Mainsail on SD CARD
   * First, take the MicroSD you’ll use for your Raspberry Pi and connect it to your computer. 
   * $Download and install the Pi Imager tool and launch it.
   * Click Choose Device, and select Raspberry PI 4
@@ -44,8 +44,4 @@ Tired of the TouchPad for the t500, here we will build our own
   * Click Yes to write to SD Card
   * Once Complete put the SD Card in your Raspberry PI
 
-  * 
-    
 
-  * Here, we recommend setting the hostname value to something you can recognize (we’ll use “printer.local” for the rest of this guide) and that won’t conflict with other Raspberry Pi on your network. Also, enable SSH using a password authenticator. Set a username and password, with the user being “pi”. If desired, set the Wi-Fi connection settings as well. Finally, click “Save”, and then you can press “Write” in the main window. Wait until the process is complete before pulling out the SD card.
-Insert the SD card into your Raspberry Pi and power it on.
