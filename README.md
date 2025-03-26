@@ -138,7 +138,13 @@ Tired of the TouchPad for the t500, here we will build our own
 ```
 
 ## Assemble the LCD Device
- * 
+ * Add 4 - M3x4 Heater inserts into the LCD Case
+
+  ![image](https://github.com/user-attachments/assets/5ede8c89-a91d-4ca6-978f-2eaeed7d19bc)
+ * Insert the LCD into the Front Case and Attach the 4 small screws in each corner to hold in firmly in place
+ * Add 6 - M3x4 Heater inserts into the RPI4 LCD Case Back. 
+
+
 
 
 
