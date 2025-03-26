@@ -19,6 +19,7 @@ Tired of the TouchPad for the t500, here we will build our own
 
 ## Software to Download
   * Raspberry Pi Imager https://www.raspberrypi.com/software/
+  * Putty https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 ## Things to Print
   Located in https://github.com/jranger615/T500-RPI-KlipperScreen/tree/main/stl
