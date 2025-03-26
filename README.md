@@ -15,6 +15,8 @@ Tired of the TouchPad for the t500, here we will build our own
   * USBA-USB Micro Cord https://www.amazon.com/dp/B0BHNVLW1Z
   * M3 and M4 Heat Inserts
   * **Optional**  Power SUpply https://www.amazon.com/dp/B0BMGJNSVS (This just makes it easier to power your Pi and do your configurations not attached to your printer)
+  * m3 bolts
+  * m4x6 bolts
 
 
 ## Software to Download
