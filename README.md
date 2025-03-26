@@ -21,10 +21,10 @@ Tired of the TouchPad for the t500, here we will build our own
   * Raspberry Pi Imager https://www.raspberrypi.com/software/
 
 ## Things to Print
-  *LCD CASE
-  *LCD BACK
-  *RPI TOP
-  *Vertical or Horizonal Mount 
+  * LCD CASE
+  * LCD BACK
+  * RPI TOP
+  * Vertical or Horizonal Mount 
 
 ## Install Mainsail on SD CARD
   * First, take the MicroSD you’ll use for your Raspberry Pi and connect it to your computer. 
