@@ -86,11 +86,27 @@ Tired of the TouchPad for the t500, here we will build our own
  * When Prompted "Install NetworkMangher for the network panel [Y/n]" Type Y
  * Click enter
 
+
  ## Install Kamp 
   If you are not currently using KAMP you can skip this step 
 
  * Reconnect to putty like above
  * Browse to https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging and follow the installation commands
+
+
+## Backup Klipper Configs
+ * Open your browser and goto your current IP or name for your t500
+ * Click the Machine Tab on the Left
+ * Click the Check box for your config files and then click download (More files may apply depending on your configuration)
+ * Stock Files:
+  ```ruby
+   printer.cfg
+   plr.cfg
+   moonracker.cfg
+   fluidd.cfg
+  ```
+ * They will be download as a zip so you will have to extract them before uploading them later 
+
 
 ## Update Klipper
  * open your browser and goto your host name EX: mkspiB.local
