@@ -56,6 +56,7 @@ Located: https://github.com/jranger615/T500-RPI-KlipperScreen/tree/main/stl
     
     ![image](https://github.com/user-attachments/assets/cd456ae6-c1b2-49e8-939e-fece0c0c93ed)
   * Set makerbase as the password
+  * Enable and SET your WIFI Settings
   * Click Save
   * Click Yes
   * Click Yes to write to SD Card
