@@ -106,6 +106,23 @@ Located: https://github.com/jranger615/T500-RPI-KlipperScreen/tree/main/stl
  * Browse to https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging and follow the installation commands
 
 
+## For Vertical orientation ONLY 
+ Note: This orientation appears a bitch stretched to me
+ * Putty into device as before
+ * type: sudo nano /boot/config.txt
+ * find "dtoverlay=vc4-fkms-v3d" and comment it out by putting a # in front of it (This is RPI4 SPecific)
+ * Goto the end of the file 
+ * add: display_rotate=3
+ * Ctrl-X to exit
+ * Y to Save
+ * type: cd /usr/share/X11/xorg.conf.d/
+ * type: sudo nano 40-libinput.conf
+ * find one that has a section that has "Identifier ... touchscreen catchall".
+ * Add: Option "TransformationMatrix" "0 -1 1 1 0 0 0 0 1"
+ * Ctrl-X to exit
+ * Y to Save
+
+
 ## Backup Klipper Configs
  * Open your browser and goto your current IP or name for your t500
  * Click the Machine Tab on the Left
