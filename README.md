@@ -103,21 +103,22 @@ Tired of the TouchPad for the t500, here we will build our own
    ![image](https://github.com/user-attachments/assets/6beb0823-5ee8-47f6-a8dc-015c385ddfc6)
  * open printer.cfg
  * comment out the following:
- #[mcu rpi]
-  #serial: /tmp/klipper_host_mcu
+```ruby
+#[mcu rpi]
+#serial: /tmp/klipper_host_mcu
 
-  #[adxl345]
-  #cs_pin: rpi:None
-  #spi_bus: spidev0.0
+#[adxl345]
+#cs_pin: rpi:None
+#spi_bus: spidev0.0
 
-
-  #[resonance_tester]
+#[resonance_tester]
 #accel_chip: adxl345
 #probe_points:230, 230, 20  # an example
 #accel_per_hz:50
 #min_freq:1
 ##max_smoothing:0.2
 #hz_per_sec:0.5
+```
 
 
 
