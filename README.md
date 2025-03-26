@@ -136,7 +136,6 @@ Tired of the TouchPad for the t500, here we will build our own
 ##max_smoothing:0.2
 #hz_per_sec:0.5
 ```
-
 ## Assemble the LCD Device
  * Add 4 - M3x4 Heater inserts into the LCD Case
 
@@ -144,8 +143,17 @@ Tired of the TouchPad for the t500, here we will build our own
  * Insert the LCD into the Front Case and Attach the 4 small screws in each corner to hold in firmly in place
  * Add 6 - M3x4 Heater inserts into the RPI4 LCD Case Back. 
 
-
-
+  ![image](https://github.com/user-attachments/assets/0f5a40a9-b023-4ef4-b964-5b85a3afd00f)
+ * Take your RPI4 and insert it to the RPI4 TOP.
+ * Place the TOP on the LCD Backing plate
+ * Insert 4 m3x12 bolts in the 4 corners to hold them in place
+ * Attach the back to the LCD front and install 4-m3x6 bolts to attach all together
+ * Install 3 - m4x6 into the Mounting Bracket
+ * Install the mounting bracket onto the backing plate using 4 - m3x6 bolts
+ * Attach all the wires from the RPI4 to the LCD
+ * HDMI to HDMI Micro
+ * USB-A to USB-C (Closest to the HDMI enabled the touch screen)
+ * Make sure the on switch is on, this is easy to see through the large hole in the mesh backing
 
 
 ## Remove Touch PAD
@@ -166,7 +174,14 @@ Tired of the TouchPad for the t500, here we will build our own
  * Plug the Buck Connector into the board and run the wires to out towards the LCD Mount (You may want to use self tap screws or double sided tape to mount the buck connector)
  * Attach the USB-C Extension to the power cord
  * Run the USB-C wire to USB-A wire from the board out towards the Touch PAD
- * 
+
+## Attach new RPI Touch screen
+ * Attach the New LCD to the Mounting bracket using 3 - m4-6 screws
+ * Attach the USB C power cord
+ * Attach the USB C to USB A to the PI
+ * Power on printer and make sure everything attaches
+ * Re-Install the t500 top plate with the 6 screws
+ * ENJOY
 
 
 
