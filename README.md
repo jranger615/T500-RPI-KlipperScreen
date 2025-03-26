@@ -32,11 +32,14 @@ This Klipper screen should work for other klipper machines but may require other
   * Putty https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 ## Things to Print
-  Located in https://github.com/jranger615/T500-RPI-KlipperScreen/tree/main/stl
+Located: https://github.com/jranger615/T500-RPI-KlipperScreen/tree/main/stl
   * LCD CASE
   * LCD BACK
   * RPI TOP
   * Vertical or Horizonal Mount 
+
+ ![image](https://github.com/user-attachments/assets/480fdf53-5f8e-4c9c-993d-95e3de02b68e)
+
 
 ## Install Mainsail on SD CARD
   * First, take the MicroSD you’ll use for your Raspberry Pi and connect it to your computer. 
@@ -57,6 +60,7 @@ This Klipper screen should work for other klipper machines but may require other
   * Click Yes
   * Click Yes to write to SD Card
   * Once Complete put the SD Card in your Raspberry PI
+
 
 ## Install Kiauh
  * Attach your Raspberry PI to the power cord and turn it on
@@ -142,6 +146,7 @@ This Klipper screen should work for other klipper machines but may require other
 ##max_smoothing:0.2
 #hz_per_sec:0.5
 ```
+
 ## Assemble the LCD Device
  * Add 4 - M3x4 Heater inserts into the LCD Case
 
@@ -180,6 +185,7 @@ This Klipper screen should work for other klipper machines but may require other
  * Plug the Buck Connector into the board and run the wires to out towards the LCD Mount (You may want to use self tap screws or double sided tape to mount the buck connector)
  * Attach the USB-C Extension to the power cord
  * Run the USB-C wire to USB-A wire from the board out towards the Touch PAD
+
 
 ## Attach new RPI Touch screen
  * Attach the New LCD to the Mounting bracket using 3 - m4-6 screws
