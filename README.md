@@ -105,6 +105,21 @@ Located: https://github.com/jranger615/T500-RPI-KlipperScreen/tree/main/stl
  * Reconnect to putty like above
  * Browse to https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging and follow the installation commands
 
+## Fix Wifi Configurations (This is only needed if all WIFI options arent showing up)
+When you first set up a Raspberry Pi, sometimes you'll need to manually set the timezone/location to allow you to make a WiFi connection (even though the initial setup screens appear to set this for you). 
+* Putty into your device
+* type: sudo raspi-config
+  
+ ![image](https://github.com/user-attachments/assets/05004e32-d1ab-4b4f-a787-ec6f7d8db1bf)
+* Select Localization Options again and Selec WLAN Country
+* Set TimeZone
+* Select Localization Options again and Selec WLAN Country
+* Press the Right Direction button and Click Finish
+* type: Sudo reboot
+* Click Enter
+May Also Require Disabling Network Manager and Re-Enabling it in Advanced Options
+
+
 
 ## For Vertical orientation ONLY 
  Note: This orientation appears a bitch stretched to me
