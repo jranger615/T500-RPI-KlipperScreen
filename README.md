@@ -5,10 +5,17 @@ This Klipper screen should work for other klipper machines but may require other
 ![mail google](https://github.com/user-attachments/assets/79d49e21-df40-43d1-9392-eec835ce35d7)
 
 
+
+
 > [!IMPORTANT]
+>###RPI5 Version
+> Added RPI5 version of STLs. It however may require different usb/pwr wires.
+> Uses official RPI5 FAN
+
 > ### If you wish to tip and help continue my work on mods please use:
 >* Paypal: Jeff.b.ranger@gmail.com
 >* Venmo: @Jeff-Ranger-1
+
 
 
 ## Things to BUY
