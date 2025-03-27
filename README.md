@@ -164,6 +164,12 @@ Located: https://github.com/jranger615/T500-RPI-KlipperScreen/tree/main/stl
 ##max_smoothing:0.2
 #hz_per_sec:0.5
 ```
+* Commet out max_accel_to decel replace
+```ruby
+#max_accel_to_decel: 1500 
+minimum_cruise_ratio: .5
+```
+
 
 ## Assemble the LCD Device
  * Add 4 - M3x4 Heater inserts into the LCD Case
