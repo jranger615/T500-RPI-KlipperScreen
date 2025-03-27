@@ -2,7 +2,8 @@
 Tired of the TouchPad for the t500, here we will build our own
 This Klipper screen should work for other klipper machines but may require other conifguration changes and a new mount
 
-![image](https://github.com/user-attachments/assets/b14b4fbc-a116-4be5-9e00-c3fcfe658432)
+![mail google](https://github.com/user-attachments/assets/79d49e21-df40-43d1-9392-eec835ce35d7)
+
 
 > [!IMPORTANT]
 > ### If you wish to tip and help continue my work on mods please use:
