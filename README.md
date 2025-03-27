@@ -8,7 +8,7 @@ This Klipper screen should work for other klipper machines but may require other
 
 
 > [!IMPORTANT]
->###RPI5 Version
+>### RPI5 Version
 > Added RPI5 version of STLs. It however may require different usb/pwr wires.
 > Uses official RPI5 FAN
 
