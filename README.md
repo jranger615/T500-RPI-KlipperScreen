@@ -12,7 +12,7 @@ This Klipper screen should work for other klipper machines but may require other
 
 
 ## Things to BUY
-  * Raspberry PI 4B 4GB RAM https://chicagodist.com/products/raspberry-pi-4-model-b-4gb  (I will remodel this for RPi3 as well)
+  * Raspberry PI 4B 4GB RAM https://chicagodist.com/products/raspberry-pi-4-model-b-4gb  (I will remodel this for RPi5 as well)
   * SD Card https://chicagodist.com/products/raspberry-pi-official-noobs-microsd-card?variant=40342062268495
   * SD Card Reader (If your Laptop or COmputer Doesnt Have one)
   * 7" Touch Screen https://www.amazon.com/dp/B0B2QW89DR?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2
