@@ -26,6 +26,7 @@ This Klipper screen should work for other klipper machines but may require other
   * m3 bolts
   * m4x6 bolts
   * Screws https://www.amazon.com/dp/B078ZVQ7XM (Mounts the LCD Screen to case)
+  * RPI4 Fan https://www.amazon.com/dp/B091L1XKL6
 
 
 ## Software to Download
@@ -105,6 +106,7 @@ Located: https://github.com/jranger615/T500-RPI-KlipperScreen/tree/main/stl
 
  * Reconnect to putty like above
  * Browse to https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging and follow the installation commands
+
 
 ## Fix Wifi Configurations (This is only needed if all WIFI options arent showing up)
 When you first set up a Raspberry Pi, sometimes you'll need to manually set the timezone/location to allow you to make a WiFi connection (even though the initial setup screens appear to set this for you). 
@@ -196,7 +198,8 @@ minimum_cruise_ratio: .5
 
   ![image](https://github.com/user-attachments/assets/0f5a40a9-b023-4ef4-b964-5b85a3afd00f)
  * Take your RPI4 and insert it to the RPI4 TOP.
- * Place the TOP on the LCD Backing plate
+ * Install RPI4 Fan per instructions included
+ * Place the TOP on the LCD Backing plateon RPI4
  * Insert 4 m3x12 bolts in the 4 corners to hold them in place
  * Attach the back to the LCD front and install 4-m3x6 bolts to attach all together
  * Install 3 - m4x6 into the Mounting Bracket
