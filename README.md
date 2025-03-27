@@ -10,7 +10,7 @@ This Klipper screen should work for other klipper machines but may require other
 > [!IMPORTANT]
 >### RPI5 Version
 > * Added RPI5 version of STLs.
-> * It however may require different usb/pwr wires.
+> * It however may require different usb/pwr wires/buck converter.
 > * Uses official RPI5 FAN
 
 > ### If you wish to tip and help continue my work on mods please use:
@@ -30,7 +30,7 @@ This Klipper screen should work for other klipper machines but may require other
   * USBA-USB Micro Cord https://www.amazon.com/dp/B0BHNVLW1Z
   * USB-C Extension https://www.amazon.com/dp/B0DKHPS1L3
   * M3 and M4 Heat Inserts
-  * **Optional**  Power SUpply https://www.amazon.com/dp/B0BMGJNSVS (This just makes it easier to power your Pi and do your configurations not attached to your printer)
+  * **Optional**  Power Supply https://www.amazon.com/dp/B0BMGJNSVS (This just makes it easier to power your Pi and do your configurations not attached to your printer)
   * m3 bolts
   * m4x6 bolts
   * Screws https://www.amazon.com/dp/B078ZVQ7XM (Mounts the LCD Screen to case)
