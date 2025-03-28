@@ -133,7 +133,7 @@ May Also Require Disabling Network Manager and Re-Enabling it in Advanced Option
 
 
 ## For Vertical orientation ONLY 
- Note: This orientation appears a bitch stretched to me
+ Note: This orientation appears a bit stretched to me
  * Putty into device as before
  * type: sudo nano /boot/config.txt
  * find "dtoverlay=vc4-fkms-v3d" and comment it out by putting a # in front of it (This is RPI4 SPecific)
