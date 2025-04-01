@@ -26,7 +26,7 @@ This Klipper screen should work for other klipper machines but may require other
   * 7" Touch Screen https://www.amazon.com/dp/B0B2QW89DR?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2
   * 24v > 5V BUCK Power Adapter https://www.amazon.com/dp/B0CRVW7N2J 
   * HDMI Cord https://www.amazon.com/dp/B0CCKXH13W
-  * USBA-USBC Cord https://www.amazon.com/dp/B0BGYWHG3L
+  * USBA-USBC Cord https://www.amazon.com/dp/B0BRQY1FLG
   * USBA-USB Micro Cord https://www.amazon.com/dp/B0BHNVLW1Z
   * USB-C Extension https://www.amazon.com/dp/B0DKHPS1L3
   * M3 and M4 Heat Inserts
