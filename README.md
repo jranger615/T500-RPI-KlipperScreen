@@ -32,7 +32,7 @@ This Klipper screen should work for other klipper machines but may require other
   * M3 and M4 Heat Inserts
   * **Optional**  Power Supply https://www.amazon.com/dp/B0BMGJNSVS (This just makes it easier to power your Pi and do your configurations not attached to your printer)
   * m3 bolts
-  * m4x6 bolts
+  * m4x6 bolts (Attatchment to Printer)
   * Screws https://www.amazon.com/dp/B078ZVQ7XM (Mounts the LCD Screen to case)
   * RPI4 Fan https://www.amazon.com/dp/B091L1XKL6
 
