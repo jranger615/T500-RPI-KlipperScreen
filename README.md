@@ -130,8 +130,21 @@ When you first set up a Raspberry Pi, sometimes you'll need to manually set the 
 * Click Enter
 May Also Require Disabling Network Manager and Re-Enabling it in Advanced Options
 
-
-
+## Horizonal Orientation Configs
+ * Putty into device as before
+ * type: sudo nano /boot/config.txt
+ * Add the below...Some can be uncommented in other sections but you can add this to the bottom.
+  ```ruby
+framebuffer_width=1024
+framebuffer_height=600
+hdmi_force_hotplug=1
+hdmi_cvt=1024 600 60 3 0 0 0
+hdmi_group=2
+hdmi_mode=87
+ ```
+* Ctrl+X to save
+* Type Y to save
+  
 ## For Vertical orientation ONLY 
  Note: This orientation appears a bit stretched to me
  * Putty into device as before
